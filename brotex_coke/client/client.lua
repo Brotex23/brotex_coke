@@ -237,9 +237,6 @@ if Brotex.Process == "true" then
 						end 
 					end,
 				
-					  onEnter = function()
-						lib.showTextUI({icon = Brotex.processicon, Strings.ProcessTextui})
-					  end,
 					  onExit = function()
 						lib.hideTextUI()
 				  
