@@ -1,5 +1,9 @@
 # **Brotex Coke** 
 
+## 📌 Video 
+[Video Preview](https://youtu.be/kdXRJGiCuXA) 
+
+
 ## 🚨 Requirements
 * [es_extended](https://github.com/esx-framework/esx_core)
 * [ox_lib](https://github.com/overextended/ox_lib/releases/tag)
@@ -12,5 +16,3 @@
 * Processing Coke
 * Sell of Coke
 
-## 📌 Video 
-[Video Preview](https://youtu.be/kdXRJGiCuXA) 
