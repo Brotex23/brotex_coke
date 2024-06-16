@@ -1,0 +1,16 @@
+--> ox_inventory/data/items.lua 
+
+["coke"] = {
+	label = "Coke",
+	weight = 25,
+	stack = true,
+	close = true,
+},
+
+	
+["cokebrick"] = {
+	label = "Coke Brick",
+	weight = 50,
+	stack = true,
+	close = true,
+},
