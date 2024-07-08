@@ -79,7 +79,7 @@ CreateThread(function()
 						end
 
 						isPickingUp = false
-					end, 'Brotex.CokeHarvestItem')
+					end, Brotex.CokeHarvestItem)
 				end
 			end
 
